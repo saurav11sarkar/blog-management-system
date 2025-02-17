@@ -66,7 +66,7 @@ Welcome to the Blog Management System API! This API provides a comprehensive sol
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blog-management-system.git
+   git clone https://github.com/saurav11sarkar/blog-management-system.git
    cd blog-management-system
    ```
 
@@ -81,7 +81,7 @@ Welcome to the Blog Management System API! This API provides a comprehensive sol
 4. Start the server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. The server will run on `http://localhost:5000` (or the port specified in your `.env` file).
@@ -206,7 +206,7 @@ interface IBlog {
 ## Deployment & Repository Links
 
 - **Live Deployment Link (Server)**: `https://blog-api-jet.vercel.app/`
-- **GitHub Repository (Server)**: [Your GitHub Repo URL Here]
+- **GitHub Repository (Server)**: `https://github.com/saurav11sarkar/blog-management-system`
 
 ### Admin Login Credentials
 
